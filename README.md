@@ -9,6 +9,6 @@
 - 📫 How to reach me: discord, stackedunderflow. 
 - ⚡ Fun fact: I chose to be myself. 
 
-## Coding languages stats:
+## Github stats:
 
 ![aRandomMenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=aRandomMenno&show_icons=true&theme=tokyonight)

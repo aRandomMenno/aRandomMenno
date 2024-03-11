@@ -11,4 +11,4 @@
 
 ## Coding languages stats:
 
-[![aRandomMenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=aRandomMenno)](https://github.com/anuraghazra/github-readme-stats)
+![aRandomMenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=aRandomMenno&show_icons=true&theme=tokyonight)

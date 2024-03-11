@@ -11,6 +11,4 @@
 
 ## Coding languages stats:
 
-<a href="https://github.com/aRandomMenno">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aRandomMenno &layout=compact&theme=onedark&bg_color=0d1117" />
-</a><br><br>
+[![aRandomMenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=aRandomMenno)](https://github.com/anuraghazra/github-readme-stats)

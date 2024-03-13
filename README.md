@@ -11,4 +11,4 @@
 
 ## Github stats:
 
-![aRandomMenno's GitHub stats](https://github-readme-stats.vercel.app/api?username=aRandomMenno&show_icons=true&theme=tokyonight)
+![aRandomMenno's GitHub stats](https://readme-stats-omega-neon.vercel.app/api?username=aRandomMenno&show_icons=true&theme=tokyonight)

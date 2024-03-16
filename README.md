@@ -11,4 +11,5 @@
 
 ## Github stats:
 
-![aRandomMenno's GitHub stats](https://https://readme-stats-five-opal.vercel.app/api?username=aRandomMenno&show_icons=true&theme=tokyonight)
+![aRandomMenno's GitHub stats](https://readme-stats-arandommenno.vercel.app/api?username=arandommenno&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-arandommenno.vercel.app/api/top-langs/?username=arandommenno&layout=compact)

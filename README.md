@@ -12,7 +12,7 @@
 ## Github stats:
 
 ![aRandomMenno's GitHub stats](https://readme-stats-arandommenno.vercel.app/api?username=arandommenno&show_icons=true&theme=blue_navy) <br>
-![Top Programming languages](https://readme-stats-arandommenno.vercel.app/api/top-langs/?username=arandommenno&layout=compact&theme=tokyonight)
+![Top Programming languages](https://readme-stats-arandommenno.vercel.app/api/top-langs/?username=arandommenno&layout=compact&theme=blue_navy)
 
 ## To do / To learn:
 

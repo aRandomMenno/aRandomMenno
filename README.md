@@ -11,7 +11,7 @@
 
 ## Github stats:
 
-![aRandomMenno's GitHub stats](https://readme-stats-arandommenno.vercel.app/api?username=arandommenno&show_icons=true&theme=tokyonight) <br>
+![aRandomMenno's GitHub stats](https://readme-stats-arandommenno.vercel.app/api?username=arandommenno&show=reviews&show_icons=true&theme=tokyonight) <br>
 ![Top Programming languages](https://readme-stats-arandommenno.vercel.app/api/top-langs/?username=arandommenno&layout=compact&theme=tokyonight)
 
 ## To do / To learn:

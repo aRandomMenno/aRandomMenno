@@ -6,6 +6,7 @@ Currently I'm busy with school, I will be styding at [Grafisch Lycuem Rotterdam]
 I love programming, currently it's my hobby but I want to make it my work. Thats why I will be going to Grafisch Lycuem Rotterdam to study [Software Developer](https://www.glr.nl/opleidingen/software-developer).
 
 If you would like to contact me you could do that with Signal, `RainBreak.3143` or on discord with `stackedunderflow` but I would prefer Signal. :)
+In the future I might make a signal group but currently there's not enoguh people for that.
 
 ## Github stats:
 

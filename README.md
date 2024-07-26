@@ -15,4 +15,5 @@ In the future I might make a signal group but currently there's not enoguh peopl
 
 # To Do List
 
-- Professionalize my website.
+- Make my website "better".
+- Code some actually usefull stuff.

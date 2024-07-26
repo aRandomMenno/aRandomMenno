@@ -1,19 +1,18 @@
 
 ## Hey, 👋 I'm Menno
 
-I like programming and hacking, however I'm pretty bad at both to be honest. this is simply because I spend more time gaming than learning to program or hack, which is sad. Because I really like doing stuff that makes me a better person and could help me make a difference.
-Currently I'm busy with school, I will be styding at [Grafisch Lycuem Rotterdam](https://www.glr.nl/) for the next 3 years, I will be starting in August of 2024.
-I love programming, currently it's my hobby but I want to make it my work. Thats why I will be going to Grafisch Lycuem Rotterdam to study [Software Developer](https://www.glr.nl/opleidingen/software-developer).
+I have a passion for programming and hacking, although I must admit I'm still learning and improving. I often find myself gaming more than coding, which is something I'm working on changing. I truly enjoy activities that contribute to my personal growth and can potentially make a difference.
 
-If you would like to contact me you could do that with Signal, `RainBreak.3143` or on discord with `stackedunderflow` but I would prefer Signal. :)
-In the future I might make a signal group but currently there's not enoguh people for that.
+Currently, I'm focused on my studies. I'll be attending [Grafisch Lyceum Rotterdam](https://www.glr.nl/) starting August 2024, where I'll be pursuing a course in [Software Development](https://www.glr.nl/opleidingen/software-developer) for the next three years. My goal is to turn my love for programming from a hobby into a career.
 
-## Github stats:
+Feel free to reach out to me on Signal at `RainBreak.3143` or on Discord at `stackedunderflow`. I prefer using Signal. In the future, I might create a Signal group if there's enough interest.
 
-![aRandomMenno's GitHub stats](https://readme-stats-arandommenno.vercel.app/api?username=arandommenno&show_icons=true&theme=blue_navy) <br>
-![Top Programming languages](https://readme-stats-arandommenno.vercel.app/api/top-langs/?username=arandommenno&layout=compact&theme=blue_navy)
+## GitHub Stats:
 
-# To Do List
+![aRandomMenno's GitHub stats](https://readme-stats-arandommenno.vercel.app/api?username=arandommenno&show_icons=true&theme=blue_navy)  
+![Top Programming Languages](https://readme-stats-arandommenno.vercel.app/api/top-langs/?username=arandommenno&layout=compact&theme=blue_navy)
 
-- Make my website "better".
-- Code some actually usefull stuff.
+## To-Do List
+
+- Improve my website.
+- Develop some genuinely useful projects.

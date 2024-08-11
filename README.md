@@ -1,6 +1,4 @@
 
-# Important notice: I am currently in the process of moving over to [gitlab](https:/gitlab.com/Cpotate)
-
 ## Hey, 👋 I'm Menno
 
 I have a passion for programming and hacking, although I must admit I'm still learning and improving. I often find myself gaming more than coding, which is something I'm working on changing. I truly enjoy activities that contribute to my personal growth and can potentially make a difference.

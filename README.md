@@ -5,7 +5,7 @@ I have a passion for programming and hacking, although I must admit I'm still le
 
 Currently, I'm focused on my studies. I'll be attending [Grafisch Lyceum Rotterdam](https://www.glr.nl/) starting August 2024, where I'll be pursuing a course in [Software Development](https://www.glr.nl/opleidingen/software-developer) for the next three years. My goal is to turn my love for programming from a hobby into a career.
 
-Feel free to reach out to me on Signal at `RainBreak.3143` or on Discord at `stackedunderflow`. I prefer using Signal. In the future, I might create a Signal group if there's enough interest.
+Feel free to reach out to me on Signal at `aRandomMenno.3143` or on Discord at `stackedunderflow`. I prefer using Signal. In the future, I might create a Signal group if there's enough interest.
 
 ## GitHub Stats:
 

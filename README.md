@@ -15,4 +15,5 @@ Feel free to reach out to me on Signal at `aRandomMenno.3143` or on Discord at `
 ## To-Do List
 
 - [X] Improve my website. 
+- [ ] School. 
 - [ ] Develop some genuinely useful projects.

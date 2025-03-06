@@ -12,7 +12,8 @@ I believe in using technology to make the digital world safer and more private.
 ## 🎯 Current Focus
 
 * 👨‍🎓 Studying Software Development at GLR (2024-2027)
-* 📚 Learning new programming languages. Java
+* 📚 Learning new programming languages, like Java.
+* 🐍 Picking Python back up.
 * 📸 Occasionally swapping keyboard for camera
 
 ## 💪 Growing Skills

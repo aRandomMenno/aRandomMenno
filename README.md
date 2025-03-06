@@ -1,33 +1,35 @@
 
 # 👋 Ping Pong! My name is Menno
 
-> Building digital safe heavens 🏡☁️, securing the universe with code 🛸🔒, and chasing perfect shots in nature 📸🌱
+> Holes can always be filled with enough work.
 
 ## 🚀 About Me
 
 I'm a perfectionist at heart who loves tinkering with code and exploring the intricacies of cybersecurity!
 Currently studying Software Development at [Grafisch Lyceum Rotterdam](https://www.glr.nl/), turning my passion for programming and ethical hacking from hobby to career.
-I believe in using technology to make the digital world both innovative and secure.
+I believe in using technology to make the digital world safer and more private.
 
 ## 🎯 Current Focus
 
 * 👨‍🎓 Studying Software Development at GLR (2024-2027)
-* 🛡️ Learning ethical hacking and cybersecurity
-* 🌐 Constantly rebuilding my website (it's like my digital garden!)
-* 📚 Learning new programming languages (like C, Rust, C++?)
+* 📚 Learning new programming languages. Java
 * 📸 Occasionally swapping keyboard for camera
 
 ## 💪 Growing Skills
 
-While I may not be the next Steve Jobs (yet!), I'm on an endless quest to level up my skills:
-
 * 💻 Programming
+  * [X] HTML
+  * [X] CSS
+  * [ ] JS
+  * [ ] Java (soon)
+  * [ ] Rust (soon probably)
 * 🔐 Cybersecurity
-* 🕵️ Ethical Hacking
 * 📷 Photography
+* 🕵️ Ethical Hacking
 
 I also love to play games. Some of my favorites are:
 
+* Minecraft
 * Noita
 * Bopl Battle
 * Super Smash Bros Ultimate
@@ -37,17 +39,15 @@ I also love to play games. Some of my favorites are:
 
 ## 📊 GitHub Stats
 
-![aRandomMenno's GitHub stats](https://readme-stats-arandommenno.vercel.app/api?username=arandommenno&show_icons=true&theme=blue_navy)  
-![Top Programming Languages](https://readme-stats-arandommenno.vercel.app/api/top-langs/?username=arandommenno&layout=compact&theme=blue_navy)
+[![aRandomMenno's GitHub stats](https://readme-stats-arandommenno.vercel.app/api?username=arandommenno&show_icons=true&theme=midnight-purple#gh-dark-mode-only)<br>](https://github.com/arandommenno/github-readme-stats#gh-dark-mode-only)
+[![Top Programming Languages](https://readme-stats-arandommenno.vercel.app/api/top-langs/?username=arandommenno&layout=compact&theme=midnight-purple#gh-dark-mode-only)](https://github.com/arandommenno/github-readme-stats#gh-dark-mode-only)
+
+[![aRandomMenno's GitHub stats](https://readme-stats-arandommenno.vercel.app/api?username=arandommenno&show_icons=true&theme=buefy#gh-light-mode-only#gh-light-mode-only)<br>](https://github.com/arandommenno/github-readme-stats#gh-light-mode-only)
+[![Top Programming Languages](https://readme-stats-arandommenno.vercel.app/api/top-langs/?username=arandommenno&layout=pie&theme=buefy#gh-light-mode-only#gh-light-mode-only)](https://github.com/arandommenno/github-readme-stats#gh-light-mode-only)
 
 ## 📝 To-Do List
 
-* [x] Redesign personal website
 * [x] Start software development studies
-* [ ] Complete basic cybersecurity certifications
-* [ ] Build a security testing lab
-* [ ] Master new programming languages
-* [ ] Create impactful security tools
-* [ ] Find the perfect balance between coding and gaming 🎮
-
-> "Chase your passions fearlessly, and never let obstacles dim your determination." -> ChatGPT
+* [ ] Git gud with git
+* [ ] Learn Java to create a minecraft mod
+* [ ] 

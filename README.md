@@ -21,9 +21,9 @@ I believe in using technology to make the digital world safer and more private.
 * 💻 Programming
   * [X] HTML
   * [X] CSS
-  * [ ] JS
-  * [ ] Java (soon)
-  * [ ] Rust (soon probably)
+  * [X] JS
+  * [ ] C# (working on it...) 
+  * [ ] Rust (someday)
 * 🔐 Cybersecurity
 * 📷 Photography
 * 🕵️ Ethical Hacking
@@ -50,5 +50,4 @@ I also love to play games. Some of my favorites are:
 
 * [x] Start software development studies
 * [ ] Git gud with git
-* [ ] Learn Java to create a minecraft mod
-* [ ] 
+* [ ] Actually learn C# and create a "decent-ish" Terraria mod

@@ -12,31 +12,22 @@ I believe in using technology to make the digital world safer and more private.
 ## 🎯 Current Focus
 
 * 👨‍🎓 Studying Software Development at GLR (2024-2027)
-* 📚 Learning new programming languages, like Java.
-* 🐍 Picking Python back up.
+* 📚 Learning new programming languages, like PHP (🤮), C# and html, css & js.
+* 🐍 Picking Python back up. (hopefully)
 * 📸 Occasionally swapping keyboard for camera
 
 ## 💪 Growing Skills
 
 * 💻 Programming
-  * [X] HTML
-  * [X] CSS
   * [X] JS
   * [ ] C# (working on it...) 
-  * [ ] Rust (someday)
 * 🔐 Cybersecurity
 * 📷 Photography
 * 🕵️ Ethical Hacking
-
-I also love to play games. Some of my favorites are:
-
-* Minecraft
-* Noita
-* Bopl Battle
-* Super Smash Bros Ultimate
-* Hacknet
-* Terraria
-* And many more!
+  * [ ] Participate in CTF's
+  * [ ] Ask other people about ethical hacking?
+  * [ ] Maybe hack the box stuff?
+  * [ ] Start something here?
 
 ## 📊 GitHub Stats
 
@@ -51,3 +42,4 @@ I also love to play games. Some of my favorites are:
 * [x] Start software development studies
 * [ ] Git gud with git
 * [ ] Actually learn C# and create a "decent-ish" Terraria mod
+* [ ] Stop vibe coding >20% of the time (currently: 40% to 50%)

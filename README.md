@@ -1,36 +1,23 @@
 
-# 👋 Ping Pong! My name is Menno
+# Hey, welcome to my github profile!
 
-> Holes can always be filled with enough work.
+> Life is like a rollercoaster it can suddenly make a looping.
 
-## 🚀 About Me
+## I am me... :)
 
-I'm a perfectionist at heart who loves tinkering with code and exploring the intricacies of cybersecurity!
-Currently studying Software Development at [Grafisch Lyceum Rotterdam](https://www.glr.nl/), turning my passion for programming and ethical hacking from hobby to career.
-I believe in using technology to make the digital world safer and more private.
+My name is Menno and I live at 127.0.0.1 on my computer. I love to spend too much time on a problem than needed, so that I do not have enough time for other things.
 
-## 🎯 Current Focus
+## What I do
 
-* 👨‍🎓 Studying Software Development at GLR (2024-2027)
-* 📚 Learning new programming languages, like PHP (🤮), C#, html, css & js.
-* 🐍 Picking Python back up. (hopefully)
-* 📸 Occasionally swapping keyboard for camera
+I am currently still studying, I'm following a Software Development course in the Netherlands. Which is going great I've learned things... for one that I *really* dislike php and phpstorm.
 
-## 💪 Growing Skills
+Other things I do include but are not limites to: trying to learn C# so I can make a Terarria mod and trying to get into cyber security and ethical hacking 'n stuff.
 
-* 💻 Programming
-  * [X] JS
-  * [ ] Python
-  * [ ] C# (working on it...)
-* 🔐 Cybersecurity
-* 📷 Photography
-* 🕵️ Ethical Hacking
-  * [ ] Participate in CTF's
-  * [ ] Ask other people about ethical hacking?
-  * [ ] Maybe hack the box stuff?
-  * [ ] Start something here?
+I also like to make pictures with a pohoto camera I am lending from someone I know, although I am not the best I would say I'm good enough for now. I'd like to spend more time making photographs, but for reason I'm stopping myself.
 
-## 📊 GitHub Stats
+Also I'm absolutely not a social person, I do like to speak to people but I have trouble to make first contact and keeping the contact up.
+
+## My github stats for the few people interested
 
 [![aRandomMenno's GitHub stats](https://readme-stats-arandommenno.vercel.app/api?username=arandommenno&show_icons=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/arandommenno/github-readme-stats#gh-dark-mode-only)
 [![Top Programming Languages](https://readme-stats-arandommenno.vercel.app/api/top-langs/?username=arandommenno&layout=compact&theme=midnight-purple#gh-dark-mode-only)](https://github.com/arandommenno/github-readme-stats#gh-dark-mode-only)
@@ -38,9 +25,4 @@ I believe in using technology to make the digital world safer and more private.
 [![aRandomMenno's GitHub stats](https://readme-stats-arandommenno.vercel.app/api?username=arandommenno&show_icons=true&theme=buefy#gh-light-mode-only#gh-light-mode-only)](https://github.com/arandommenno/github-readme-stats#gh-light-mode-only)
 [![Top Programming Languages](https://readme-stats-arandommenno.vercel.app/api/top-langs/?username=arandommenno&layout=pie&theme=buefy#gh-light-mode-only#gh-light-mode-only)](https://github.com/arandommenno/github-readme-stats#gh-light-mode-only)
 
-## 📝 To-Do List
-
-* [x] Start software development studies
-* [ ] Git gud with git
-* [ ] Actually learn C# and create a somewhat functional Terraria mod
-* [ ] Stop vibe coding >20% of the time (currently: 40% to 50%)
+> This is deffinitly not a rant about my life...

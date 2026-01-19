@@ -1,5 +1,7 @@
 
-# Hey, welcome to my github profile!
+# Hello everyone I have switched to codeberg! It is a much better platform and you should consider switching too!
+
+## Hey, welcome to my github profile!
 
 > Life is like a rollercoaster it can suddenly stop... or make a looping.
 

@@ -1,5 +1,5 @@
 
-# Hello everyone I have switched to codeberg! Coderberg had much better privacy which I appreciate very much.
+# Hello everyone I have switched to codeberg! Codeberg has much better privacy, which I appreciate very much.
 
 ## Hey, welcome to my github profile!
 

@@ -1,5 +1,5 @@
 
-# Hello everyone I have switched to codeberg! It is a much better platform and you should consider switching too!
+# Hello everyone I have switched to codeberg! Coderberg had much better privacy which I appreciate very much.
 
 ## Hey, welcome to my github profile!
 

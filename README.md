@@ -1,6 +1,8 @@
 
 # Hello everyone I have switched to codeberg! Codeberg has much better privacy, which I appreciate very much.
 
+you can find me [here](https://coderberg.org/divnii/
+
 ## Hey, welcome to my github profile!
 
 > Life is like a rollercoaster it can suddenly stop... or make a looping.

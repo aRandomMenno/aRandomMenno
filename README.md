@@ -1,7 +1,7 @@
 
 # Hello everyone I have switched to codeberg! Codeberg has much better privacy, which I appreciate very much.
 
-you can find me [here](https://coderberg.org/divnii/)
+you can find me [here](https://codeberg.org/divnii/)
 
 ## Hey, welcome to my github profile!
 
